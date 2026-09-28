@@ -1,0 +1,2852 @@
+[
+  {
+    "code": "N003",
+    "nameAr": "صامولة أو برشام",
+    "nameEn": "Nut / Rivet Hardware",
+    "descriptionAr": "صامولة أو برشام",
+    "descriptionEn": "Nut / Rivet Hardware",
+    "specifications": "",
+    "page": 1,
+    "image": "images/page_01.jpg"
+  },
+  {
+    "code": "N006",
+    "nameAr": "صامولة أو برشام",
+    "nameEn": "Nut / Rivet Hardware",
+    "descriptionAr": "صامولة أو برشام",
+    "descriptionEn": "Nut / Rivet Hardware",
+    "specifications": "",
+    "page": 1,
+    "image": "images/page_01.jpg"
+  },
+  {
+    "code": "N-104",
+    "nameAr": "صامولة أو برشام",
+    "nameEn": "Nut / Rivet Hardware",
+    "descriptionAr": "صامولة أو برشام",
+    "descriptionEn": "Nut / Rivet Hardware",
+    "specifications": "",
+    "page": 1,
+    "image": "images/page_01.jpg"
+  },
+  {
+    "code": "N-105",
+    "nameAr": "صامولة أو برشام",
+    "nameEn": "Nut / Rivet Hardware",
+    "descriptionAr": "صامولة أو برشام",
+    "descriptionEn": "Nut / Rivet Hardware",
+    "specifications": "",
+    "page": 1,
+    "image": "images/page_01.jpg"
+  },
+  {
+    "code": "N-39",
+    "nameAr": "صامولة أو برشام",
+    "nameEn": "Nut / Rivet Hardware",
+    "descriptionAr": "صامولة أو برشام",
+    "descriptionEn": "Nut / Rivet Hardware",
+    "specifications": "",
+    "page": 1,
+    "image": "images/page_01.jpg"
+  },
+  {
+    "code": "PI01",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 2,
+    "image": "images/page_02.jpg"
+  },
+  {
+    "code": "R003",
+    "nameAr": "برشام ألومنيوم 3 × 8 مم",
+    "nameEn": "Aluminum Rivet 3 x 8 mm",
+    "descriptionAr": "برشام ألومنيوم 3 × 8 مم",
+    "descriptionEn": "Aluminum Rivet 3 x 8 mm",
+    "specifications": "Aluminum; Natural",
+    "page": 2,
+    "image": "images/page_02.jpg"
+  },
+  {
+    "code": "RN-02",
+    "nameAr": "صامولة برشام مسطحة الرأس، مجلفنة",
+    "nameEn": "Flat Head Rivet Nut, Galvanized",
+    "descriptionAr": "صامولة برشام مسطحة الرأس، مجلفنة",
+    "descriptionEn": "Flat Head Rivet Nut, Galvanized",
+    "specifications": "M4 x L11 mm; Hole 6.00 mm",
+    "page": 2,
+    "image": "images/page_02.jpg"
+  },
+  {
+    "code": "RN-04",
+    "nameAr": "صامولة برشام مسطحة الرأس، مجلفنة",
+    "nameEn": "Flat Head Rivet Nut, Galvanized",
+    "descriptionAr": "صامولة برشام مسطحة الرأس، مجلفنة",
+    "descriptionEn": "Flat Head Rivet Nut, Galvanized",
+    "specifications": "M6 x L15 mm; Hole 9.00 mm",
+    "page": 2,
+    "image": "images/page_02.jpg"
+  },
+  {
+    "code": "RN-115",
+    "nameAr": "صامولة أو برشام",
+    "nameEn": "Nut / Rivet Hardware",
+    "descriptionAr": "صامولة أو برشام",
+    "descriptionEn": "Nut / Rivet Hardware",
+    "specifications": "",
+    "page": 2,
+    "image": "images/page_02.jpg"
+  },
+  {
+    "code": "RN-138",
+    "nameAr": "صامولة أو برشام",
+    "nameEn": "Nut / Rivet Hardware",
+    "descriptionAr": "صامولة أو برشام",
+    "descriptionEn": "Nut / Rivet Hardware",
+    "specifications": "",
+    "page": 3,
+    "image": "images/page_03.jpg"
+  },
+  {
+    "code": "RN-35",
+    "nameAr": "صامولة أو برشام",
+    "nameEn": "Nut / Rivet Hardware",
+    "descriptionAr": "صامولة أو برشام",
+    "descriptionEn": "Nut / Rivet Hardware",
+    "specifications": "",
+    "page": 3,
+    "image": "images/page_03.jpg"
+  },
+  {
+    "code": "RN-78",
+    "nameAr": "صامولة أو برشام",
+    "nameEn": "Nut / Rivet Hardware",
+    "descriptionAr": "صامولة أو برشام",
+    "descriptionEn": "Nut / Rivet Hardware",
+    "specifications": "",
+    "page": 3,
+    "image": "images/page_03.jpg"
+  },
+  {
+    "code": "SC003006",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 3,
+    "image": "images/page_03.jpg"
+  },
+  {
+    "code": "SC003008",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 3,
+    "image": "images/page_03.jpg"
+  },
+  {
+    "code": "N-40",
+    "nameAr": "صامولة أو برشام",
+    "nameEn": "Nut / Rivet Hardware",
+    "descriptionAr": "صامولة أو برشام",
+    "descriptionEn": "Nut / Rivet Hardware",
+    "specifications": "",
+    "page": 4,
+    "image": "images/page_04.jpg"
+  },
+  {
+    "code": "N-97",
+    "nameAr": "صامولة أو برشام",
+    "nameEn": "Nut / Rivet Hardware",
+    "descriptionAr": "صامولة أو برشام",
+    "descriptionEn": "Nut / Rivet Hardware",
+    "specifications": "",
+    "page": 4,
+    "image": "images/page_04.jpg"
+  },
+  {
+    "code": "N-98",
+    "nameAr": "صامولة أو برشام",
+    "nameEn": "Nut / Rivet Hardware",
+    "descriptionAr": "صامولة أو برشام",
+    "descriptionEn": "Nut / Rivet Hardware",
+    "specifications": "",
+    "page": 4,
+    "image": "images/page_04.jpg"
+  },
+  {
+    "code": "NS003",
+    "nameAr": "صامولة أو برشام",
+    "nameEn": "Nut / Rivet Hardware",
+    "descriptionAr": "صامولة أو برشام",
+    "descriptionEn": "Nut / Rivet Hardware",
+    "specifications": "",
+    "page": 4,
+    "image": "images/page_04.jpg"
+  },
+  {
+    "code": "NS004",
+    "nameAr": "صامولة أو برشام",
+    "nameEn": "Nut / Rivet Hardware",
+    "descriptionAr": "صامولة أو برشام",
+    "descriptionEn": "Nut / Rivet Hardware",
+    "specifications": "",
+    "page": 4,
+    "image": "images/page_04.jpg"
+  },
+  {
+    "code": "CT10",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 5,
+    "image": "images/page_05.jpg"
+  },
+  {
+    "code": "CT20",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 5,
+    "image": "images/page_05.jpg"
+  },
+  {
+    "code": "SC003010",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 5,
+    "image": "images/page_05.jpg"
+  },
+  {
+    "code": "SC003012",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 5,
+    "image": "images/page_05.jpg"
+  },
+  {
+    "code": "SC004006",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 5,
+    "image": "images/page_05.jpg"
+  },
+  {
+    "code": "SC004008",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 5,
+    "image": "images/page_05.jpg"
+  },
+  {
+    "code": "SC004010",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 5,
+    "image": "images/page_05.jpg"
+  },
+  {
+    "code": "SC004012",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 5,
+    "image": "images/page_05.jpg"
+  },
+  {
+    "code": "SC02090405",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 5,
+    "image": "images/page_05.jpg"
+  },
+  {
+    "code": "SC025006",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 5,
+    "image": "images/page_05.jpg"
+  },
+  {
+    "code": "SC-05",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 6,
+    "image": "images/page_06.jpg"
+  },
+  {
+    "code": "SC-06",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 6,
+    "image": "images/page_06.jpg"
+  },
+  {
+    "code": "SC-09",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 6,
+    "image": "images/page_06.jpg"
+  },
+  {
+    "code": "SC-10",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 6,
+    "image": "images/page_06.jpg"
+  },
+  {
+    "code": "SC-101",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 6,
+    "image": "images/page_06.jpg"
+  },
+  {
+    "code": "SC-102",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 6,
+    "image": "images/page_06.jpg"
+  },
+  {
+    "code": "Sc-104",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 6,
+    "image": "images/page_06.jpg"
+  },
+  {
+    "code": "SC-11",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 6,
+    "image": "images/page_06.jpg"
+  },
+  {
+    "code": "SC-118",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 7,
+    "image": "images/page_07.jpg"
+  },
+  {
+    "code": "SC-119",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 7,
+    "image": "images/page_07.jpg"
+  },
+  {
+    "code": "SC-12",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 7,
+    "image": "images/page_07.jpg"
+  },
+  {
+    "code": "SC-120",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 7,
+    "image": "images/page_07.jpg"
+  },
+  {
+    "code": "SC-121",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 7,
+    "image": "images/page_07.jpg"
+  },
+  {
+    "code": "SC-124",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 7,
+    "image": "images/page_07.jpg"
+  },
+  {
+    "code": "SC-125",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 7,
+    "image": "images/page_07.jpg"
+  },
+  {
+    "code": "SC-137",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 7,
+    "image": "images/page_07.jpg"
+  },
+  {
+    "code": "SC-140",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 7,
+    "image": "images/page_07.jpg"
+  },
+  {
+    "code": "SC-141",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 7,
+    "image": "images/page_07.jpg"
+  },
+  {
+    "code": "SC-142",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 8,
+    "image": "images/page_08.jpg"
+  },
+  {
+    "code": "SC-144",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 8,
+    "image": "images/page_08.jpg"
+  },
+  {
+    "code": "SC-162",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 8,
+    "image": "images/page_08.jpg"
+  },
+  {
+    "code": "SC-176",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 8,
+    "image": "images/page_08.jpg"
+  },
+  {
+    "code": "SC-178",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 8,
+    "image": "images/page_08.jpg"
+  },
+  {
+    "code": "SC-180",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 8,
+    "image": "images/page_08.jpg"
+  },
+  {
+    "code": "SC-181",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 8,
+    "image": "images/page_08.jpg"
+  },
+  {
+    "code": "SC-186",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 8,
+    "image": "images/page_08.jpg"
+  },
+  {
+    "code": "SC-190",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 8,
+    "image": "images/page_08.jpg"
+  },
+  {
+    "code": "SC-191",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 9,
+    "image": "images/page_09.jpg"
+  },
+  {
+    "code": "SC-195",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 9,
+    "image": "images/page_09.jpg"
+  },
+  {
+    "code": "SC-200",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 9,
+    "image": "images/page_09.jpg"
+  },
+  {
+    "code": "SC-201",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 9,
+    "image": "images/page_09.jpg"
+  },
+  {
+    "code": "SC-202",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 9,
+    "image": "images/page_09.jpg"
+  },
+  {
+    "code": "SC-205",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 9,
+    "image": "images/page_09.jpg"
+  },
+  {
+    "code": "SC-21",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 9,
+    "image": "images/page_09.jpg"
+  },
+  {
+    "code": "SC-213",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 9,
+    "image": "images/page_09.jpg"
+  },
+  {
+    "code": "SC-215",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 9,
+    "image": "images/page_09.jpg"
+  },
+  {
+    "code": "SC-217",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 9,
+    "image": "images/page_09.jpg"
+  },
+  {
+    "code": "SC-218",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 10,
+    "image": "images/page_10.jpg"
+  },
+  {
+    "code": "SC-219",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 10,
+    "image": "images/page_10.jpg"
+  },
+  {
+    "code": "SC-220",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 10,
+    "image": "images/page_10.jpg"
+  },
+  {
+    "code": "SC-221",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 10,
+    "image": "images/page_10.jpg"
+  },
+  {
+    "code": "SC-222",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 10,
+    "image": "images/page_10.jpg"
+  },
+  {
+    "code": "SC-227",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 10,
+    "image": "images/page_10.jpg"
+  },
+  {
+    "code": "SC-228",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 10,
+    "image": "images/page_10.jpg"
+  },
+  {
+    "code": "SC-229",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 10,
+    "image": "images/page_10.jpg"
+  },
+  {
+    "code": "SC-23",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 10,
+    "image": "images/page_10.jpg"
+  },
+  {
+    "code": "SC-234",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 11,
+    "image": "images/page_11.jpg"
+  },
+  {
+    "code": "SC-235",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 11,
+    "image": "images/page_11.jpg"
+  },
+  {
+    "code": "SC-248",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 11,
+    "image": "images/page_11.jpg"
+  },
+  {
+    "code": "SC-251",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 11,
+    "image": "images/page_11.jpg"
+  },
+  {
+    "code": "SC-252",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 11,
+    "image": "images/page_11.jpg"
+  },
+  {
+    "code": "SC-256",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 11,
+    "image": "images/page_11.jpg"
+  },
+  {
+    "code": "SC-260",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 11,
+    "image": "images/page_11.jpg"
+  },
+  {
+    "code": "SC-261",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 11,
+    "image": "images/page_11.jpg"
+  },
+  {
+    "code": "SC-262",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 11,
+    "image": "images/page_11.jpg"
+  },
+  {
+    "code": "SC-265",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 11,
+    "image": "images/page_11.jpg"
+  },
+  {
+    "code": "SC-33",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 12,
+    "image": "images/page_12.jpg"
+  },
+  {
+    "code": "SC-34",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 12,
+    "image": "images/page_12.jpg"
+  },
+  {
+    "code": "SC-36",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 12,
+    "image": "images/page_12.jpg"
+  },
+  {
+    "code": "SC-37",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 12,
+    "image": "images/page_12.jpg"
+  },
+  {
+    "code": "SC-38",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 12,
+    "image": "images/page_12.jpg"
+  },
+  {
+    "code": "SC-40",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 12,
+    "image": "images/page_12.jpg"
+  },
+  {
+    "code": "SC-42",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 12,
+    "image": "images/page_12.jpg"
+  },
+  {
+    "code": "SC-44",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 12,
+    "image": "images/page_12.jpg"
+  },
+  {
+    "code": "SC-50",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 12,
+    "image": "images/page_12.jpg"
+  },
+  {
+    "code": "SC-52",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 12,
+    "image": "images/page_12.jpg"
+  },
+  {
+    "code": "SC-59",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 13,
+    "image": "images/page_13.jpg"
+  },
+  {
+    "code": "SC-71",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 13,
+    "image": "images/page_13.jpg"
+  },
+  {
+    "code": "SC-73",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 13,
+    "image": "images/page_13.jpg"
+  },
+  {
+    "code": "SC-74",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 13,
+    "image": "images/page_13.jpg"
+  },
+  {
+    "code": "SC-76",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 13,
+    "image": "images/page_13.jpg"
+  },
+  {
+    "code": "sc-83",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 13,
+    "image": "images/page_13.jpg"
+  },
+  {
+    "code": "SC-86",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 13,
+    "image": "images/page_13.jpg"
+  },
+  {
+    "code": "SC-89",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 13,
+    "image": "images/page_13.jpg"
+  },
+  {
+    "code": "SC-90",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 13,
+    "image": "images/page_13.jpg"
+  },
+  {
+    "code": "SC-95",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 13,
+    "image": "images/page_13.jpg"
+  },
+  {
+    "code": "SCR-ACS-SS-M04X10",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 14,
+    "image": "images/page_14.jpg"
+  },
+  {
+    "code": "SCR-ACS-SS-M04X12",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 14,
+    "image": "images/page_14.jpg"
+  },
+  {
+    "code": "SCR-ACS-SS-M04X16",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 14,
+    "image": "images/page_14.jpg"
+  },
+  {
+    "code": "SCR-ACS-SS-M05X12",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 14,
+    "image": "images/page_14.jpg"
+  },
+  {
+    "code": "SCR-ACS-SS-M05X20",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 14,
+    "image": "images/page_14.jpg"
+  },
+  {
+    "code": "SCR-ACS-SS-M05X40",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 14,
+    "image": "images/page_14.jpg"
+  },
+  {
+    "code": "SCR-ACS-SS-M06X20",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 14,
+    "image": "images/page_14.jpg"
+  },
+  {
+    "code": "SCR-AHC-AS-M03X12",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 14,
+    "image": "images/page_14.jpg"
+  },
+  {
+    "code": "SCR-AHC-SS-M04X10",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 14,
+    "image": "images/page_14.jpg"
+  },
+  {
+    "code": "SCR-AHC-SS-M04X18",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 15,
+    "image": "images/page_15.jpg"
+  },
+  {
+    "code": "SCR-AHC-SS-M04X50",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 15,
+    "image": "images/page_15.jpg"
+  },
+  {
+    "code": "SCR-AHC-SS-M05X10",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 15,
+    "image": "images/page_15.jpg"
+  },
+  {
+    "code": "SCR-AHC-SS-M05X16",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 15,
+    "image": "images/page_15.jpg"
+  },
+  {
+    "code": "SCR-AHC-SS-M05X40",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 15,
+    "image": "images/page_15.jpg"
+  },
+  {
+    "code": "SCR-AHC-SS-M05X60",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 15,
+    "image": "images/page_15.jpg"
+  },
+  {
+    "code": "SCR-AHC-SS-M06X10",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 15,
+    "image": "images/page_15.jpg"
+  },
+  {
+    "code": "SCR-AHC-SS-M06X20",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 15,
+    "image": "images/page_15.jpg"
+  },
+  {
+    "code": "SCR-AHC-SS-M10X25",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 15,
+    "image": "images/page_15.jpg"
+  },
+  {
+    "code": "SCR-HH-GS-M20X30",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 15,
+    "image": "images/page_15.jpg"
+  },
+  {
+    "code": "SCR-PCS-SS-M04X10",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 16,
+    "image": "images/page_16.jpg"
+  },
+  {
+    "code": "SCR-PCS-SS-M04X16",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 16,
+    "image": "images/page_16.jpg"
+  },
+  {
+    "code": "SCR-PPH-GS-M03X08",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 16,
+    "image": "images/page_16.jpg"
+  },
+  {
+    "code": "SCR-PPH-GS-M03X12",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 16,
+    "image": "images/page_16.jpg"
+  },
+  {
+    "code": "SCR-PPH-GS-M04X10",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 16,
+    "image": "images/page_16.jpg"
+  },
+  {
+    "code": "SCR-PPH-SS-M03X06",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 16,
+    "image": "images/page_16.jpg"
+  },
+  {
+    "code": "SCR-PPH-SS-M03X08",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 16,
+    "image": "images/page_16.jpg"
+  },
+  {
+    "code": "SCR-PPH-SS-M03X10",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 16,
+    "image": "images/page_16.jpg"
+  },
+  {
+    "code": "SCR-PPH-SS-M04X06",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 16,
+    "image": "images/page_16.jpg"
+  },
+  {
+    "code": "SCR-PPH-SS-M04X08",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 16,
+    "image": "images/page_16.jpg"
+  },
+  {
+    "code": "SCR-PPH-SS-M04X10",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 17,
+    "image": "images/page_17.jpg"
+  },
+  {
+    "code": "SCR-PPH-SS-M04X12",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 17,
+    "image": "images/page_17.jpg"
+  },
+  {
+    "code": "SCR-PPH-SS-M05X10",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 17,
+    "image": "images/page_17.jpg"
+  },
+  {
+    "code": "SCR-PPH-SS-M05X12",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 17,
+    "image": "images/page_17.jpg"
+  },
+  {
+    "code": "SCR-PPH-SS-M05X25",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 17,
+    "image": "images/page_17.jpg"
+  },
+  {
+    "code": "SC-96",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 17,
+    "image": "images/page_17.jpg"
+  },
+  {
+    "code": "SC-97",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 17,
+    "image": "images/page_17.jpg"
+  },
+  {
+    "code": "SCI003006",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 17,
+    "image": "images/page_17.jpg"
+  },
+  {
+    "code": "sp-165",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 17,
+    "image": "images/page_17.jpg"
+  },
+  {
+    "code": "sp-167",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 17,
+    "image": "images/page_17.jpg"
+  },
+  {
+    "code": "SSC035095",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 18,
+    "image": "images/page_18.jpg"
+  },
+  {
+    "code": "SSC035135",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 18,
+    "image": "images/page_18.jpg"
+  },
+  {
+    "code": "SW006",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 18,
+    "image": "images/page_18.jpg"
+  },
+  {
+    "code": "SW-19",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 18,
+    "image": "images/page_18.jpg"
+  },
+  {
+    "code": "SW-22",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 18,
+    "image": "images/page_18.jpg"
+  },
+  {
+    "code": "SW-47",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 18,
+    "image": "images/page_18.jpg"
+  },
+  {
+    "code": "SW-64",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 18,
+    "image": "images/page_18.jpg"
+  },
+  {
+    "code": "To-1303",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 18,
+    "image": "images/page_18.jpg"
+  },
+  {
+    "code": "To-1849",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 18,
+    "image": "images/page_18.jpg"
+  },
+  {
+    "code": "To-2320",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 18,
+    "image": "images/page_18.jpg"
+  },
+  {
+    "code": "To-661",
+    "nameAr": "جلدة كابل معدنية IP68 مقاس M20",
+    "nameEn": "IP68 Metallic Cable Gland M20",
+    "descriptionAr": "جلدة كابل معدنية IP68 مقاس M20",
+    "descriptionEn": "IP68 Metallic Cable Gland M20",
+    "specifications": "M20; Metallic; IP68",
+    "page": 19,
+    "image": "images/page_19.jpg"
+  },
+  {
+    "code": "W004",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 19,
+    "image": "images/page_19.jpg"
+  },
+  {
+    "code": "W006",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 19,
+    "image": "images/page_19.jpg"
+  },
+  {
+    "code": "W008",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 19,
+    "image": "images/page_19.jpg"
+  },
+  {
+    "code": "W-06",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 19,
+    "image": "images/page_19.jpg"
+  },
+  {
+    "code": "W-07",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 19,
+    "image": "images/page_19.jpg"
+  },
+  {
+    "code": "W-161",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 19,
+    "image": "images/page_19.jpg"
+  },
+  {
+    "code": "W-162",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 19,
+    "image": "images/page_19.jpg"
+  },
+  {
+    "code": "W-52",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 19,
+    "image": "images/page_19.jpg"
+  },
+  {
+    "code": "C165",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 20,
+    "image": "images/page_20.jpg"
+  },
+  {
+    "code": "W-72",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 20,
+    "image": "images/page_20.jpg"
+  },
+  {
+    "code": "WL4080",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 20,
+    "image": "images/page_20.jpg"
+  },
+  {
+    "code": "WS004",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 20,
+    "image": "images/page_20.jpg"
+  },
+  {
+    "code": "WS008",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 20,
+    "image": "images/page_20.jpg"
+  },
+  {
+    "code": "WL50100",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 20,
+    "image": "images/page_20.jpg"
+  },
+  {
+    "code": "WP-HS06",
+    "nameAr": "أنبوب انكماش حراري",
+    "nameEn": "Heat Shrink",
+    "descriptionAr": "أنبوب انكماش حراري",
+    "descriptionEn": "Heat Shrink",
+    "specifications": "",
+    "page": 20,
+    "image": "images/page_20.jpg"
+  },
+  {
+    "code": "To-670",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 20,
+    "image": "images/page_20.jpg"
+  },
+  {
+    "code": "To-670.i",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 20,
+    "image": "images/page_20.jpg"
+  },
+  {
+    "code": "To-68",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 20,
+    "image": "images/page_20.jpg"
+  },
+  {
+    "code": "To-99",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 20,
+    "image": "images/page_20.jpg"
+  },
+  {
+    "code": "0100010",
+    "nameAr": "موصل كهربائي",
+    "nameEn": "Electrical Connector",
+    "descriptionAr": "موصل كهربائي",
+    "descriptionEn": "Electrical Connector",
+    "specifications": "",
+    "page": 21,
+    "image": "images/page_21.jpg"
+  },
+  {
+    "code": "0100020",
+    "nameAr": "موصل كهربائي",
+    "nameEn": "Electrical Connector",
+    "descriptionAr": "موصل كهربائي",
+    "descriptionEn": "Electrical Connector",
+    "specifications": "",
+    "page": 21,
+    "image": "images/page_21.jpg"
+  },
+  {
+    "code": "0100030",
+    "nameAr": "موصل كهربائي",
+    "nameEn": "Electrical Connector",
+    "descriptionAr": "موصل كهربائي",
+    "descriptionEn": "Electrical Connector",
+    "specifications": "",
+    "page": 21,
+    "image": "images/page_21.jpg"
+  },
+  {
+    "code": "0101010",
+    "nameAr": "موصل كهربائي",
+    "nameEn": "Electrical Connector",
+    "descriptionAr": "موصل كهربائي",
+    "descriptionEn": "Electrical Connector",
+    "specifications": "",
+    "page": 21,
+    "image": "images/page_21.jpg"
+  },
+  {
+    "code": "0101020",
+    "nameAr": "موصل كهربائي",
+    "nameEn": "Electrical Connector",
+    "descriptionAr": "موصل كهربائي",
+    "descriptionEn": "Electrical Connector",
+    "specifications": "",
+    "page": 21,
+    "image": "images/page_21.jpg"
+  },
+  {
+    "code": "0110010",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 21,
+    "image": "images/page_21.jpg"
+  },
+  {
+    "code": "CI001",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 21,
+    "image": "images/page_21.jpg"
+  },
+  {
+    "code": "C-M19-8b",
+    "nameAr": "موصل كهربائي",
+    "nameEn": "Electrical Connector",
+    "descriptionAr": "موصل كهربائي",
+    "descriptionEn": "Electrical Connector",
+    "specifications": "",
+    "page": 21,
+    "image": "images/page_21.jpg"
+  },
+  {
+    "code": "DR-B501",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 21,
+    "image": "images/page_21.jpg"
+  },
+  {
+    "code": "DR-M02-02",
+    "nameAr": "موصل كهربائي",
+    "nameEn": "Electrical Connector",
+    "descriptionAr": "موصل كهربائي",
+    "descriptionEn": "Electrical Connector",
+    "specifications": "",
+    "page": 22,
+    "image": "images/page_22.jpg"
+  },
+  {
+    "code": "DR-M023T-02",
+    "nameAr": "موصل كهربائي",
+    "nameEn": "Electrical Connector",
+    "descriptionAr": "موصل كهربائي",
+    "descriptionEn": "Electrical Connector",
+    "specifications": "",
+    "page": 22,
+    "image": "images/page_22.jpg"
+  },
+  {
+    "code": "DR-M024T-02",
+    "nameAr": "موصل كهربائي",
+    "nameEn": "Electrical Connector",
+    "descriptionAr": "موصل كهربائي",
+    "descriptionEn": "Electrical Connector",
+    "specifications": "",
+    "page": 22,
+    "image": "images/page_22.jpg"
+  },
+  {
+    "code": "DR-M024T-P-02",
+    "nameAr": "موصل كهربائي",
+    "nameEn": "Electrical Connector",
+    "descriptionAr": "موصل كهربائي",
+    "descriptionEn": "Electrical Connector",
+    "specifications": "",
+    "page": 22,
+    "image": "images/page_22.jpg"
+  },
+  {
+    "code": "DR-M026T-02",
+    "nameAr": "موصل كهربائي",
+    "nameEn": "Electrical Connector",
+    "descriptionAr": "موصل كهربائي",
+    "descriptionEn": "Electrical Connector",
+    "specifications": "",
+    "page": 22,
+    "image": "images/page_22.jpg"
+  },
+  {
+    "code": "DR-M20-02",
+    "nameAr": "موصل كهربائي",
+    "nameEn": "Electrical Connector",
+    "descriptionAr": "موصل كهربائي",
+    "descriptionEn": "Electrical Connector",
+    "specifications": "",
+    "page": 22,
+    "image": "images/page_22.jpg"
+  },
+  {
+    "code": "FY-M8A05x1.25",
+    "nameAr": "جلدة كابل IP67 بقلاووظ M8 × 1.25",
+    "nameEn": "IP67 Cable Gland M8 x 1.25",
+    "descriptionAr": "جلدة كابل IP67 بقلاووظ M8 × 1.25",
+    "descriptionEn": "IP67 Cable Gland M8 x 1.25",
+    "specifications": "Cable range 3.5-5 mm; FSAC",
+    "page": 22,
+    "image": "images/page_22.jpg"
+  },
+  {
+    "code": "IPGL",
+    "nameAr": "جلدة كابل",
+    "nameEn": "Cable Gland",
+    "descriptionAr": "جلدة كابل",
+    "descriptionEn": "Cable Gland",
+    "specifications": "",
+    "page": 22,
+    "image": "images/page_22.jpg"
+  },
+  {
+    "code": "OJ-M713B-7P",
+    "nameAr": "موصل كهربائي",
+    "nameEn": "Electrical Connector",
+    "descriptionAr": "موصل كهربائي",
+    "descriptionEn": "Electrical Connector",
+    "specifications": "",
+    "page": 22,
+    "image": "images/page_22.jpg"
+  },
+  {
+    "code": "OJ-M715-C",
+    "nameAr": "موصل كهربائي",
+    "nameEn": "Electrical Connector",
+    "descriptionAr": "موصل كهربائي",
+    "descriptionEn": "Electrical Connector",
+    "specifications": "",
+    "page": 23,
+    "image": "images/page_23.jpg"
+  },
+  {
+    "code": "SCR-PCS-SS-M2.5X06",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 23,
+    "image": "images/page_23.jpg"
+  },
+  {
+    "code": "SCR-ST-CSB-M3.5X8",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 23,
+    "image": "images/page_23.jpg"
+  },
+  {
+    "code": "To-106",
+    "nameAr": "جلدة كابل",
+    "nameEn": "Cable Gland",
+    "descriptionAr": "جلدة كابل",
+    "descriptionEn": "Cable Gland",
+    "specifications": "",
+    "page": 23,
+    "image": "images/page_23.jpg"
+  },
+  {
+    "code": "To-576",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 23,
+    "image": "images/page_23.jpg"
+  },
+  {
+    "code": "To-586",
+    "nameAr": "جلدة كابل",
+    "nameEn": "Cable Gland",
+    "descriptionAr": "جلدة كابل",
+    "descriptionEn": "Cable Gland",
+    "specifications": "",
+    "page": 23,
+    "image": "images/page_23.jpg"
+  },
+  {
+    "code": "To-660",
+    "nameAr": "جلدة كابل",
+    "nameEn": "Cable Gland",
+    "descriptionAr": "جلدة كابل",
+    "descriptionEn": "Cable Gland",
+    "specifications": "",
+    "page": 23,
+    "image": "images/page_23.jpg"
+  },
+  {
+    "code": "YL17B-1200-16",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 23,
+    "image": "images/page_23.jpg"
+  },
+  {
+    "code": "ZD-0487S-007N",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 23,
+    "image": "images/page_23.jpg"
+  },
+  {
+    "code": "0001SLE",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 24,
+    "image": "images/page_24.jpg"
+  },
+  {
+    "code": "0003M",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 24,
+    "image": "images/page_24.jpg"
+  },
+  {
+    "code": "0100011",
+    "nameAr": "موصل كهربائي",
+    "nameEn": "Electrical Connector",
+    "descriptionAr": "موصل كهربائي",
+    "descriptionEn": "Electrical Connector",
+    "specifications": "",
+    "page": 24,
+    "image": "images/page_24.jpg"
+  },
+  {
+    "code": "28003024",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 24,
+    "image": "images/page_24.jpg"
+  },
+  {
+    "code": "28003026",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 24,
+    "image": "images/page_24.jpg"
+  },
+  {
+    "code": "32137-865001",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 24,
+    "image": "images/page_24.jpg"
+  },
+  {
+    "code": "5952-02",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 24,
+    "image": "images/page_24.jpg"
+  },
+  {
+    "code": "6120CaTie",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 24,
+    "image": "images/page_24.jpg"
+  },
+  {
+    "code": "6120Sus",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 24,
+    "image": "images/page_24.jpg"
+  },
+  {
+    "code": "6130DIH",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 25,
+    "image": "images/page_25.jpg"
+  },
+  {
+    "code": "AC M Socket-SA",
+    "nameAr": "موصل كهربائي",
+    "nameEn": "Electrical Connector",
+    "descriptionAr": "موصل كهربائي",
+    "descriptionEn": "Electrical Connector",
+    "specifications": "",
+    "page": 25,
+    "image": "images/page_25.jpg"
+  },
+  {
+    "code": "Cab-08",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 25,
+    "image": "images/page_25.jpg"
+  },
+  {
+    "code": "CL002",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 25,
+    "image": "images/page_25.jpg"
+  },
+  {
+    "code": "Com",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 25,
+    "image": "images/page_25.jpg"
+  },
+  {
+    "code": "COM01",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 25,
+    "image": "images/page_25.jpg"
+  },
+  {
+    "code": "COM04",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 25,
+    "image": "images/page_25.jpg"
+  },
+  {
+    "code": "DFC14",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 25,
+    "image": "images/page_25.jpg"
+  },
+  {
+    "code": "DFC2020",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 25,
+    "image": "images/page_25.jpg"
+  },
+  {
+    "code": "FI06",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 25,
+    "image": "images/page_25.jpg"
+  },
+  {
+    "code": "FI-21",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 25,
+    "image": "images/page_25.jpg"
+  },
+  {
+    "code": "GL06",
+    "nameAr": "جلدة كابل",
+    "nameEn": "Cable Gland",
+    "descriptionAr": "جلدة كابل",
+    "descriptionEn": "Cable Gland",
+    "specifications": "",
+    "page": 26,
+    "image": "images/page_26.jpg"
+  },
+  {
+    "code": "GL10",
+    "nameAr": "جلدة كابل",
+    "nameEn": "Cable Gland",
+    "descriptionAr": "جلدة كابل",
+    "descriptionEn": "Cable Gland",
+    "specifications": "",
+    "page": 26,
+    "image": "images/page_26.jpg"
+  },
+  {
+    "code": "GL16",
+    "nameAr": "جلدة كابل",
+    "nameEn": "Cable Gland",
+    "descriptionAr": "جلدة كابل",
+    "descriptionEn": "Cable Gland",
+    "specifications": "",
+    "page": 26,
+    "image": "images/page_26.jpg"
+  },
+  {
+    "code": "HS03",
+    "nameAr": "أنبوب انكماش حراري",
+    "nameEn": "Heat Shrink",
+    "descriptionAr": "أنبوب انكماش حراري",
+    "descriptionEn": "Heat Shrink",
+    "specifications": "",
+    "page": 26,
+    "image": "images/page_26.jpg"
+  },
+  {
+    "code": "HS04",
+    "nameAr": "أنبوب انكماش حراري",
+    "nameEn": "Heat Shrink",
+    "descriptionAr": "أنبوب انكماش حراري",
+    "descriptionEn": "Heat Shrink",
+    "specifications": "",
+    "page": 26,
+    "image": "images/page_26.jpg"
+  },
+  {
+    "code": "HS05",
+    "nameAr": "أنبوب انكماش حراري",
+    "nameEn": "Heat Shrink",
+    "descriptionAr": "أنبوب انكماش حراري",
+    "descriptionEn": "Heat Shrink",
+    "specifications": "",
+    "page": 26,
+    "image": "images/page_26.jpg"
+  },
+  {
+    "code": "HS06",
+    "nameAr": "أنبوب انكماش حراري",
+    "nameEn": "Heat Shrink",
+    "descriptionAr": "أنبوب انكماش حراري",
+    "descriptionEn": "Heat Shrink",
+    "specifications": "",
+    "page": 26,
+    "image": "images/page_26.jpg"
+  },
+  {
+    "code": "N003-01",
+    "nameAr": "صامولة أو برشام",
+    "nameEn": "Nut / Rivet Hardware",
+    "descriptionAr": "صامولة أو برشام",
+    "descriptionEn": "Nut / Rivet Hardware",
+    "specifications": "",
+    "page": 26,
+    "image": "images/page_26.jpg"
+  },
+  {
+    "code": "OJ-602B-2P",
+    "nameAr": "موصل كهربائي",
+    "nameEn": "Electrical Connector",
+    "descriptionAr": "موصل كهربائي",
+    "descriptionEn": "Electrical Connector",
+    "specifications": "",
+    "page": 26,
+    "image": "images/page_26.jpg"
+  },
+  {
+    "code": "0-101",
+    "nameAr": "حلقة إحكام مطاطية",
+    "nameEn": "Rubber O-Ring",
+    "descriptionAr": "حلقة إحكام مطاطية",
+    "descriptionEn": "Rubber O-Ring",
+    "specifications": "",
+    "page": 27,
+    "image": "images/page_27.jpg"
+  },
+  {
+    "code": "0-110",
+    "nameAr": "حلقة إحكام مطاطية",
+    "nameEn": "Rubber O-Ring",
+    "descriptionAr": "حلقة إحكام مطاطية",
+    "descriptionEn": "Rubber O-Ring",
+    "specifications": "",
+    "page": 27,
+    "image": "images/page_27.jpg"
+  },
+  {
+    "code": "0-120",
+    "nameAr": "حلقة إحكام مطاطية",
+    "nameEn": "Rubber O-Ring",
+    "descriptionAr": "حلقة إحكام مطاطية",
+    "descriptionEn": "Rubber O-Ring",
+    "specifications": "",
+    "page": 27,
+    "image": "images/page_27.jpg"
+  },
+  {
+    "code": "0-157",
+    "nameAr": "حلقة إحكام مطاطية",
+    "nameEn": "Rubber O-Ring",
+    "descriptionAr": "حلقة إحكام مطاطية",
+    "descriptionEn": "Rubber O-Ring",
+    "specifications": "",
+    "page": 27,
+    "image": "images/page_27.jpg"
+  },
+  {
+    "code": "0-159",
+    "nameAr": "حلقة إحكام مطاطية",
+    "nameEn": "Rubber O-Ring",
+    "descriptionAr": "حلقة إحكام مطاطية",
+    "descriptionEn": "Rubber O-Ring",
+    "specifications": "",
+    "page": 27,
+    "image": "images/page_27.jpg"
+  },
+  {
+    "code": "0-171",
+    "nameAr": "حلقة إحكام مطاطية",
+    "nameEn": "Rubber O-Ring",
+    "descriptionAr": "حلقة إحكام مطاطية",
+    "descriptionEn": "Rubber O-Ring",
+    "specifications": "",
+    "page": 27,
+    "image": "images/page_27.jpg"
+  },
+  {
+    "code": "0-187",
+    "nameAr": "حلقة إحكام مطاطية",
+    "nameEn": "Rubber O-Ring",
+    "descriptionAr": "حلقة إحكام مطاطية",
+    "descriptionEn": "Rubber O-Ring",
+    "specifications": "",
+    "page": 27,
+    "image": "images/page_27.jpg"
+  },
+  {
+    "code": "0-191",
+    "nameAr": "حلقة إحكام مطاطية",
+    "nameEn": "Rubber O-Ring",
+    "descriptionAr": "حلقة إحكام مطاطية",
+    "descriptionEn": "Rubber O-Ring",
+    "specifications": "",
+    "page": 27,
+    "image": "images/page_27.jpg"
+  },
+  {
+    "code": "0-192",
+    "nameAr": "حلقة إحكام مطاطية",
+    "nameEn": "Rubber O-Ring",
+    "descriptionAr": "حلقة إحكام مطاطية",
+    "descriptionEn": "Rubber O-Ring",
+    "specifications": "",
+    "page": 27,
+    "image": "images/page_27.jpg"
+  },
+  {
+    "code": "SC-300",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 28,
+    "image": "images/page_28.jpg"
+  },
+  {
+    "code": "SCR-AHC-AS-M03X10",
+    "nameAr": "مسمار",
+    "nameEn": "Screw / Fastener",
+    "descriptionAr": "مسمار",
+    "descriptionEn": "Screw / Fastener",
+    "specifications": "",
+    "page": 28,
+    "image": "images/page_28.jpg"
+  },
+  {
+    "code": "SL1540",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 28,
+    "image": "images/page_28.jpg"
+  },
+  {
+    "code": "TA2",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 28,
+    "image": "images/page_28.jpg"
+  },
+  {
+    "code": "TA74",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 28,
+    "image": "images/page_28.jpg"
+  },
+  {
+    "code": "TE4",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 28,
+    "image": "images/page_28.jpg"
+  },
+  {
+    "code": "TO.SAF-01",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 28,
+    "image": "images/page_28.jpg"
+  },
+  {
+    "code": "TO.SAF-04",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 28,
+    "image": "images/page_28.jpg"
+  },
+  {
+    "code": "TO.SAF-05",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 28,
+    "image": "images/page_28.jpg"
+  },
+  {
+    "code": "TO.SAF-07",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 28,
+    "image": "images/page_28.jpg"
+  },
+  {
+    "code": "TO.SAF-08",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 28,
+    "image": "images/page_28.jpg"
+  },
+  {
+    "code": "To-01",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 29,
+    "image": "images/page_29.jpg"
+  },
+  {
+    "code": "To-06",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 29,
+    "image": "images/page_29.jpg"
+  },
+  {
+    "code": "To-07",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 29,
+    "image": "images/page_29.jpg"
+  },
+  {
+    "code": "To-1036.k",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 29,
+    "image": "images/page_29.jpg"
+  },
+  {
+    "code": "TO-1109",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 29,
+    "image": "images/page_29.jpg"
+  },
+  {
+    "code": "To-11222",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 29,
+    "image": "images/page_29.jpg"
+  },
+  {
+    "code": "To-1123",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 29,
+    "image": "images/page_29.jpg"
+  },
+  {
+    "code": "To-1131",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 29,
+    "image": "images/page_29.jpg"
+  },
+  {
+    "code": "To-114",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 29,
+    "image": "images/page_29.jpg"
+  },
+  {
+    "code": "To-120",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 29,
+    "image": "images/page_29.jpg"
+  },
+  {
+    "code": "To-1341",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 29,
+    "image": "images/page_29.jpg"
+  },
+  {
+    "code": "To-1474",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 29,
+    "image": "images/page_29.jpg"
+  },
+  {
+    "code": "To-2211",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 30,
+    "image": "images/page_30.jpg"
+  },
+  {
+    "code": "To-2212",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 30,
+    "image": "images/page_30.jpg"
+  },
+  {
+    "code": "To-2213",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 30,
+    "image": "images/page_30.jpg"
+  },
+  {
+    "code": "To-2214",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 30,
+    "image": "images/page_30.jpg"
+  },
+  {
+    "code": "To-2217",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 30,
+    "image": "images/page_30.jpg"
+  },
+  {
+    "code": "To-22230",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 30,
+    "image": "images/page_30.jpg"
+  },
+  {
+    "code": "To-2257",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 30,
+    "image": "images/page_30.jpg"
+  },
+  {
+    "code": "To-2258",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 30,
+    "image": "images/page_30.jpg"
+  },
+  {
+    "code": "To-652",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 30,
+    "image": "images/page_30.jpg"
+  },
+  {
+    "code": "WI-78",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 30,
+    "image": "images/page_30.jpg"
+  },
+  {
+    "code": "wlbs05",
+    "nameAr": "وردة تثبيت",
+    "nameEn": "Washer",
+    "descriptionAr": "وردة تثبيت",
+    "descriptionEn": "Washer",
+    "specifications": "",
+    "page": 30,
+    "image": "images/page_30.jpg"
+  },
+  {
+    "code": "ZL500",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 30,
+    "image": "images/page_30.jpg"
+  },
+  {
+    "code": "To-1522",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 31,
+    "image": "images/page_31.jpg"
+  },
+  {
+    "code": "To-1647",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 31,
+    "image": "images/page_31.jpg"
+  },
+  {
+    "code": "To-165",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 31,
+    "image": "images/page_31.jpg"
+  },
+  {
+    "code": "To-171",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 31,
+    "image": "images/page_31.jpg"
+  },
+  {
+    "code": "To-2004",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 31,
+    "image": "images/page_31.jpg"
+  },
+  {
+    "code": "To-209",
+    "nameAr": "صنف مخزن",
+    "nameEn": "Store Item",
+    "descriptionAr": "صنف مخزن",
+    "descriptionEn": "Store Item",
+    "specifications": "",
+    "page": 31,
+    "image": "images/page_31.jpg"
+  },
+  {
+    "code": "FT03",
+    "nameAr": "أنبوب فايبر 3 مم، أحمر",
+    "nameEn": "Fiber Tube 3 mm, Red",
+    "descriptionAr": "أنبوب فايبر 3 مم، أحمر",
+    "descriptionEn": "Fiber Tube 3 mm, Red",
+    "specifications": "3 mm; Red",
+    "page": 32,
+    "image": "images/page_32.jpg"
+  },
+  {
+    "code": "FT04",
+    "nameAr": "أنبوب فايبر 4 مم، أخضر",
+    "nameEn": "Fiber Tube 4 mm, Green",
+    "descriptionAr": "أنبوب فايبر 4 مم، أخضر",
+    "descriptionEn": "Fiber Tube 4 mm, Green",
+    "specifications": "4 mm; Green",
+    "page": 32,
+    "image": "images/page_32.jpg"
+  },
+  {
+    "code": "FT05",
+    "nameAr": "أنبوب فايبر 5 مم، أخضر",
+    "nameEn": "Fiber Tube 5 mm, Green",
+    "descriptionAr": "أنبوب فايبر 5 مم، أخضر",
+    "descriptionEn": "Fiber Tube 5 mm, Green",
+    "specifications": "5 mm; Green",
+    "page": 32,
+    "image": "images/page_32.jpg"
+  },
+  {
+    "code": "FT10",
+    "nameAr": "أنبوب فايبر، قطر خارجي 10 مم وداخلي 8 مم، أخضر",
+    "nameEn": "Fiber Tube OD 10 mm / ID 8 mm, Green",
+    "descriptionAr": "أنبوب فايبر، قطر خارجي 10 مم وداخلي 8 مم، أخضر",
+    "descriptionEn": "Fiber Tube OD 10 mm / ID 8 mm, Green",
+    "specifications": "OD 10 mm; ID 8 mm; Green",
+    "page": 32,
+    "image": "images/page_32.jpg"
+  }
+]
